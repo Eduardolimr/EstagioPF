@@ -1,5 +1,4 @@
 import csv
-from operator import itemgetter
 
 path = "./exemplo.csv"
 listaOrdenada = []
